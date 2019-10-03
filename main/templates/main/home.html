@@ -1,0 +1,50 @@
+{% extends 'main/base.html' %}
+{% load crispy_forms_tags %}
+{% load static %}
+{% block content %}
+
+	<div class="messages">
+		{% if messages %}
+			{% for message in messages %}
+				<div class="alert alert-{{ message.tags }}">{{ message }}</div>
+			{% endfor %}
+		{% endif %}
+	</div>
+
+	<div class="row content">
+		<div class="col-md-6">
+			<div class="inner rounded">
+				<form method="POST" enctype="multipart/form-data">
+					<fieldset class="form-group">
+						{% csrf_token %}
+						<legend class="border-bottom mb-4">Upload a File</legend>
+						<p><img src="{% static '/main/images/uploadicon.png' %}" /></p>
+						<p class="mb-4">Please choose a .csv file to upload:</p>
+					    	{{ form.csv_file }}
+			    	</fieldset>
+			    	<div class="form-group">
+			    		<button class="button" type="submit">Submit</button>
+			    	</div>
+				</form>
+			</div>
+		</div>
+
+		<div class="col-md-6">
+			<div class="inner rounded">
+				<h1 class="border-bottom mb-4">Guidelines</h1>
+				<p>Please upload your file in .csv format.</p>
+
+				<p>The first row of the file should contain headers describing each column. All following rows will represent one student per row.</p>
+
+				<p>The first column should contain an identifier for each student. This is an identifier of your choosing, for example the student's name or identification number.</p>
+
+				<p>You may include up to 10 attributes. Attributes should either be represented by a <u>unique</u> character or word, or, in the case of academic score for example, provide a numerical value.</p>
+
+				<h1>Example</h1>
+
+				<p><img src="{% static '/main/images/examplecsv.png' %}" /></p>
+			</div>
+		</div>
+	</div>
+
+{% endblock %}

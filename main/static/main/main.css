@@ -1,0 +1,62 @@
+body {
+	font-family: 'Lato', sans-serif;
+	font-size: 1.1em;
+	color: #333;
+	background-color: #f2f2f2;
+}
+
+h1 {
+	font-size: 1.5em;
+	padding-top: 0.1em;
+}
+
+h2 {
+	font-size: 1.2em;
+}
+
+th, td {
+  padding: 0.4em;
+  text-align: left;
+}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+th {
+  background-color: #e0e0e0;
+}
+
+#loading {
+	display: none;
+	text-align: center;
+}
+
+.navbar {
+	background-color: #fff;
+}
+
+.navbar .navbar-brand {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 2em;
+	color: #5b7372;
+	letter-spacing: -3px;
+	padding-left: -100px;
+}
+
+.messages {
+	padding-top: 1em;
+	padding-bottom: 0em;
+}
+
+.content {
+	padding: 1.5em;
+}
+
+.inner {
+	background-color: #fff;
+	padding: 1em;
+}
+
+
+

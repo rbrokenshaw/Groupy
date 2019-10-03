@@ -1,0 +1,57 @@
+{% extends 'main/base.html' %}
+{% load crispy_forms_tags %}
+{% load static %}
+{% block content %}
+
+	<div class="messages">
+		{% if messages %}
+			{% for message in messages %}
+				<div class="alert alert-{{ message.tags }}">{{ message }}</div>
+			{% endfor %}
+		{% endif %}
+	</div>
+	
+	<div class="row content">
+		<div class="col-md-6">
+			<div class="inner rounded">
+				<form method="POST">
+					<fieldset class="form-group">
+						{% csrf_token %}
+						<h1 class="border-bottom mb-4">Enter Team Details</h1>
+
+						{{ form | crispy }}
+			    	</fieldset>
+			    	<div class="form-group">
+			    		<button name="team-details" type="submit" onclick="showDiv()">Submit</button>
+			    	</div>
+				</form>
+				<div class="border-top pt-3">
+					<small class="text-muted">*required fields</small>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-md-6">
+			<div id="loading" class="inner rounded">
+				<p>Your solution is loading...</p>
+				<img src="{% static '/main/images/808.gif' %}" />
+			</div>
+			<div class="inner rounded">
+				<h1 class="border-bottom mb-4">Guidelines</h1>
+
+				<h2 class="border-bottom mb-2">Team Size</h2>
+				<p>Please indicate how many students you require in each team.</p>
+
+				<h2 class="border-bottom mb-2">Iterations</h2>
+				<p>The iterations input represents how many times the Groupy algorithm will search for a solution. A starting value of 1000 is recommended, however for large cohort sizes with several attributes, some experimentation with a higher number of iterations will be required.</p>
+
+				<p>For smaller cohort sizes with fewer attributes, 50 iterations should suffice.</p>
+
+				<h2 class="border-bottom mb-2">Weightings</h2>
+				<p>Groupy will automatically detect attributes; you may alter weightings for these attributes as required. For attributes requiring greater priority, for example, you may specify a higher weighting. Weightings may be between 1 and 100.
+			</div>
+		</div>
+	</div>
+
+
+{% endblock %}

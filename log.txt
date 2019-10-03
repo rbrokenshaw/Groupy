@@ -1,0 +1,544 @@
+Number of Students: 100, Team Size Requested: 5
+Constraints selected: Gender 
+Number of Females: 35, 35.0%
+Starting algorithm....
+Iteration No: 1 of 1000
+	Individual Constraint Variance Scores: 0.023391812865497075 
+	Overall Variance Score: 0.023391812865497075
+Iteration No: 2 of 1000
+	Individual Constraint Variance Scores: 0.02339181286549707 
+	Overall Variance Score: 0.02339181286549707
+Iteration No: 3 of 1000
+	Individual Constraint Variance Scores: 0.014502923976608184 
+	Overall Variance Score: 0.014502923976608184
+Iteration No: 14 of 1000
+	Individual Constraint Variance Scores: 0.012105263157894735 
+	Overall Variance Score: 0.012105263157894735
+Iteration No: 88 of 1000
+	Individual Constraint Variance Scores: 0.01005847953216374 
+	Overall Variance Score: 0.01005847953216374
+Iteration No: 171 of 1000
+	Individual Constraint Variance Scores: 0.005614035087719299 
+	Overall Variance Score: 0.005614035087719299
+Iteration No: 262 of 1000
+	Individual Constraint Variance Scores: 0.005614035087719298 
+	Overall Variance Score: 0.005614035087719298
+
+		Completed in: 27.860330820083618 seconds.
+
+Number of Students: 100, Team Size Requested: 5
+Constraints selected: Gender 
+Number of Females: 35, 35.0%
+Starting algorithm....
+Iteration No: 1 of 1000
+	Individual Constraint Variance Scores: 0.020526315789473688 
+	Overall Variance Score: 0.020526315789473688
+Iteration No: 11 of 1000
+	Individual Constraint Variance Scores: 0.02052631578947368 
+	Overall Variance Score: 0.02052631578947368
+Iteration No: 21 of 1000
+	Individual Constraint Variance Scores: 0.014502923976608184 
+	Overall Variance Score: 0.014502923976608184
+Iteration No: 27 of 1000
+	Individual Constraint Variance Scores: 0.006928104575163399 
+	Overall Variance Score: 0.006928104575163399
+Iteration No: 826 of 1000
+	Individual Constraint Variance Scores: 0.005614035087719299 
+	Overall Variance Score: 0.005614035087719299
+Iteration No: 900 of 1000
+	Individual Constraint Variance Scores: 0.005614035087719298 
+	Overall Variance Score: 0.005614035087719298
+
+		Completed in: 29.61175560951233 seconds.
+
+Number of Students: 100, Team Size Requested: 5
+Constraints selected: Gender 
+Number of Females: 35, 35.0%
+Starting algorithm....
+Iteration No: 1 of 1000
+	Individual Constraint Variance Scores: 0.01894736842105263 
+	Overall Variance Score: 0.01894736842105263
+Iteration No: 4 of 1000
+	Individual Constraint Variance Scores: 0.01633986928104575 
+	Overall Variance Score: 0.01633986928104575
+Iteration No: 16 of 1000
+	Individual Constraint Variance Scores: 0.011633986928104573 
+	Overall Variance Score: 0.011633986928104573
+Iteration No: 205 of 1000
+	Individual Constraint Variance Scores: 0.011633986928104571 
+	Overall Variance Score: 0.011633986928104571
+Iteration No: 315 of 1000
+	Individual Constraint Variance Scores: 0.0069281045751634 
+	Overall Variance Score: 0.0069281045751634
+Iteration No: 503 of 1000
+	Individual Constraint Variance Scores: 0.006499999999999998 
+	Overall Variance Score: 0.006499999999999998
+Iteration No: 506 of 1000
+	Individual Constraint Variance Scores: 0.006499999999999996 
+	Overall Variance Score: 0.006499999999999996
+Iteration No: 913 of 1000
+	Individual Constraint Variance Scores: 0.006499999999999995 
+	Overall Variance Score: 0.006499999999999995
+
+		Completed in: 28.786972045898438 seconds.
+
+Number of Students: 100, Team Size Requested: 5
+Constraints selected: Gender 
+Number of Females: 35, 35.0%
+Starting algorithm....
+Iteration No: 1 of 1000
+	Individual Constraint Variance Scores: 0.028947368421052628 
+	Overall Variance Score: 0.028947368421052628
+Iteration No: 5 of 1000
+	Individual Constraint Variance Scores: 0.027352941176470594 
+	Overall Variance Score: 0.027352941176470594
+Iteration No: 7 of 1000
+	Individual Constraint Variance Scores: 0.025751633986928098 
+	Overall Variance Score: 0.025751633986928098
+Iteration No: 10 of 1000
+	Individual Constraint Variance Scores: 0.024736842105263154 
+	Overall Variance Score: 0.024736842105263154
+Iteration No: 13 of 1000
+	Individual Constraint Variance Scores: 0.016315789473684207 
+	Overall Variance Score: 0.016315789473684207
+Iteration No: 18 of 1000
+	Individual Constraint Variance Scores: 0.014502923976608184 
+	Overall Variance Score: 0.014502923976608184
+Iteration No: 40 of 1000
+	Individual Constraint Variance Scores: 0.011633986928104575 
+	Overall Variance Score: 0.011633986928104575
+Iteration No: 59 of 1000
+	Individual Constraint Variance Scores: 0.011633986928104573 
+	Overall Variance Score: 0.011633986928104573
+Iteration No: 185 of 1000
+	Individual Constraint Variance Scores: 0.0069281045751634 
+	Overall Variance Score: 0.0069281045751634
+Iteration No: 527 of 1000
+	Individual Constraint Variance Scores: 0.006928104575163399 
+	Overall Variance Score: 0.006928104575163399
+Iteration No: 665 of 1000
+	Individual Constraint Variance Scores: 0.006928104575163398 
+	Overall Variance Score: 0.006928104575163398
+Iteration No: 685 of 1000
+	Individual Constraint Variance Scores: 0.0023529411764705876 
+	Overall Variance Score: 0.0023529411764705876
+
+		Completed in: 29.159650087356567 seconds.
+
+Number of Students: 100, Team Size Requested: 5
+Constraints selected: Gender Ethicity 
+Number of Females: 35, 35.0%
+Starting algorithm....
+Iteration No: 1 of 1000
+	Individual Constraint Variance Scores: 0.020526315789473684 0.05557894736842106 
+	Overall Variance Score: 0.07610526315789475
+Iteration No: 3 of 1000
+	Individual Constraint Variance Scores: 0.024736842105263158 0.05136842105263158 
+	Overall Variance Score: 0.07610526315789473
+Iteration No: 4 of 1000
+	Individual Constraint Variance Scores: 0.018947368421052626 0.056502024291497976 
+	Overall Variance Score: 0.0754493927125506
+Iteration No: 5 of 1000
+	Individual Constraint Variance Scores: 0.025751633986928098 0.028812030075187983 
+	Overall Variance Score: 0.05456366406211608
+Iteration No: 10 of 1000
+	Individual Constraint Variance Scores: 0.02052631578947368 0.03190350877192984 
+	Overall Variance Score: 0.05242982456140352
+Iteration No: 18 of 1000
+	Individual Constraint Variance Scores: 0.02339181286549707 0.024601503759398506 
+	Overall Variance Score: 0.047993316624895574
+Iteration No: 50 of 1000
+	Individual Constraint Variance Scores: 0.020526315789473684 0.02460150375939851 
+	Overall Variance Score: 0.0451278195488722
+Iteration No: 59 of 1000
+	Individual Constraint Variance Scores: 0.018947368421052626 0.02460150375939851 
+	Overall Variance Score: 0.043548872180451136
+Iteration No: 133 of 1000
+	Individual Constraint Variance Scores: 0.02104575163398692 0.021962848297213632 
+	Overall Variance Score: 0.043008599931200556
+Iteration No: 151 of 1000
+	Individual Constraint Variance Scores: 0.01894736842105263 0.021962848297213632 
+	Overall Variance Score: 0.040910216718266265
+Iteration No: 187 of 1000
+	Individual Constraint Variance Scores: 0.01631578947368421 0.020198142414860697 
+	Overall Variance Score: 0.036513931888544904
+Iteration No: 219 of 1000
+	Individual Constraint Variance Scores: 0.018947368421052626 0.015987616099071213 
+	Overall Variance Score: 0.034934984520123835
+Iteration No: 323 of 1000
+	Individual Constraint Variance Scores: 0.010058479532163739 0.02019814241486069 
+	Overall Variance Score: 0.03025662194702443
+
+		Completed in: 43.5843300819397 seconds.
+
+Number of Students: 100, Team Size Requested: 5
+Constraints selected: Gender Ethicity 
+Number of Females: 35, 35.0%
+Starting algorithm....
+Iteration No: 1 of 1000
+	Individual Constraint Variance Scores: 0.02894736842105262 0.02769298245614036 
+	Overall Variance Score: 0.05664035087719298
+Iteration No: 2 of 1000
+	Individual Constraint Variance Scores: 0.028947368421052635 0.021962848297213632 
+	Overall Variance Score: 0.05091021671826627
+Iteration No: 7 of 1000
+	Individual Constraint Variance Scores: 0.025751633986928105 0.021962848297213636 
+	Overall Variance Score: 0.04771448228414174
+Iteration No: 24 of 1000
+	Individual Constraint Variance Scores: 0.02104575163398692 0.026173374613003106 
+	Overall Variance Score: 0.047219126246990026
+Iteration No: 97 of 1000
+	Individual Constraint Variance Scores: 0.016339869281045746 0.027692982456140363 
+	Overall Variance Score: 0.04403285173718611
+Iteration No: 142 of 1000
+	Individual Constraint Variance Scores: 0.021045751633986927 0.02019814241486069 
+	Overall Variance Score: 0.04124389404884762
+Iteration No: 153 of 1000
+	Individual Constraint Variance Scores: 0.01894736842105263 0.02196284829721363 
+	Overall Variance Score: 0.04091021671826626
+Iteration No: 322 of 1000
+	Individual Constraint Variance Scores: 0.011633986928104573 0.026173374613003106 
+	Overall Variance Score: 0.03780736154110768
+Iteration No: 332 of 1000
+	Individual Constraint Variance Scores: 0.010058479532163739 0.02196284829721363 
+	Overall Variance Score: 0.03202132782937737
+Iteration No: 456 of 1000
+	Individual Constraint Variance Scores: 0.011633986928104575 0.015987616099071213 
+	Overall Variance Score: 0.027621603027175787
+Iteration No: 679 of 1000
+	Individual Constraint Variance Scores: 0.007352941176470586 0.02019814241486069 
+	Overall Variance Score: 0.027551083591331276
+
+		Completed in: 41.592933177948 seconds.
+
+Number of Students: 100, Team Size Requested: 5
+Constraints selected: Academic Score 
+Number of Females: 35, 35.0%
+Starting algorithm....
+Iteration No: 1 of 1000
+	Individual Constraint Variance Scores: 0.5565305263157895 
+	Overall Variance Score: 0.5565305263157895
+Iteration No: 4 of 1000
+	Individual Constraint Variance Scores: 0.4528673684210528 
+	Overall Variance Score: 0.4528673684210528
+Iteration No: 5 of 1000
+	Individual Constraint Variance Scores: 0.3494568421052632 
+	Overall Variance Score: 0.3494568421052632
+Iteration No: 9 of 1000
+	Individual Constraint Variance Scores: 0.22040421052631576 
+	Overall Variance Score: 0.22040421052631576
+Iteration No: 13 of 1000
+	Individual Constraint Variance Scores: 0.21261473684210536 
+	Overall Variance Score: 0.21261473684210536
+Iteration No: 17 of 1000
+	Individual Constraint Variance Scores: 0.2068884210526315 
+	Overall Variance Score: 0.2068884210526315
+Iteration No: 29 of 1000
+	Individual Constraint Variance Scores: 0.16465684210526332 
+	Overall Variance Score: 0.16465684210526332
+Iteration No: 36 of 1000
+	Individual Constraint Variance Scores: 0.16314105263157896 
+	Overall Variance Score: 0.16314105263157896
+Iteration No: 37 of 1000
+	Individual Constraint Variance Scores: 0.16301473684210524 
+	Overall Variance Score: 0.16301473684210524
+Iteration No: 38 of 1000
+	Individual Constraint Variance Scores: 0.14128842105263156 
+	Overall Variance Score: 0.14128842105263156
+Iteration No: 39 of 1000
+	Individual Constraint Variance Scores: 0.14078315789473694 
+	Overall Variance Score: 0.14078315789473694
+Iteration No: 85 of 1000
+	Individual Constraint Variance Scores: 0.07299368421052631 
+	Overall Variance Score: 0.07299368421052631
+Iteration No: 125 of 1000
+	Individual Constraint Variance Scores: 0.06575157894736844 
+	Overall Variance Score: 0.06575157894736844
+Iteration No: 417 of 1000
+	Individual Constraint Variance Scores: 0.055393684210526296 
+	Overall Variance Score: 0.055393684210526296
+Iteration No: 649 of 1000
+	Individual Constraint Variance Scores: 0.04402526315789473 
+	Overall Variance Score: 0.04402526315789473
+
+		Completed in: 27.40828800201416 seconds.
+
+Number of Students: 100, Team Size Requested: 5
+Constraints selected: Academic Score 
+Number of Females: 35, 35.0%
+Starting algorithm....
+Iteration No: 1 of 1000
+	Individual Constraint Variance Scores: 0.7372463157894734 
+	Overall Variance Score: 0.7372463157894734
+Iteration No: 2 of 1000
+	Individual Constraint Variance Scores: 0.5754357894736841 
+	Overall Variance Score: 0.5754357894736841
+Iteration No: 3 of 1000
+	Individual Constraint Variance Scores: 0.3868463157894738 
+	Overall Variance Score: 0.3868463157894738
+Iteration No: 5 of 1000
+	Individual Constraint Variance Scores: 0.3568252631578945 
+	Overall Variance Score: 0.3568252631578945
+Iteration No: 6 of 1000
+	Individual Constraint Variance Scores: 0.3418778947368418 
+	Overall Variance Score: 0.3418778947368418
+Iteration No: 7 of 1000
+	Individual Constraint Variance Scores: 0.31556210526315787 
+	Overall Variance Score: 0.31556210526315787
+Iteration No: 8 of 1000
+	Individual Constraint Variance Scores: 0.29152000000000006 
+	Overall Variance Score: 0.29152000000000006
+Iteration No: 10 of 1000
+	Individual Constraint Variance Scores: 0.2872252631578947 
+	Overall Variance Score: 0.2872252631578947
+Iteration No: 15 of 1000
+	Individual Constraint Variance Scores: 0.20192 
+	Overall Variance Score: 0.20192
+Iteration No: 19 of 1000
+	Individual Constraint Variance Scores: 0.1964884210526316 
+	Overall Variance Score: 0.1964884210526316
+Iteration No: 25 of 1000
+	Individual Constraint Variance Scores: 0.10478315789473683 
+	Overall Variance Score: 0.10478315789473683
+Iteration No: 75 of 1000
+	Individual Constraint Variance Scores: 0.05577263157894738 
+	Overall Variance Score: 0.05577263157894738
+Iteration No: 124 of 1000
+	Individual Constraint Variance Scores: 0.030677894736842137 
+	Overall Variance Score: 0.030677894736842137
+
+		Completed in: 27.52800679206848 seconds.
+
+Number of Students: 100, Team Size Requested: 5
+Constraints selected: Gender Academic Score 
+Number of Females: 35, 35.0%
+Starting algorithm....
+Iteration No: 1 of 1000
+	Individual Constraint Variance Scores: 0.030457516339869276 0.607604210526316 
+	Overall Variance Score: 0.6380617268661852
+Iteration No: 2 of 1000
+	Individual Constraint Variance Scores: 0.0257516339869281 0.5772884210526317 
+	Overall Variance Score: 0.6030400550395598
+Iteration No: 3 of 1000
+	Individual Constraint Variance Scores: 0.02052631578947368 0.5014147368421051 
+	Overall Variance Score: 0.5219410526315789
+Iteration No: 8 of 1000
+	Individual Constraint Variance Scores: 0.03516339869281046 0.4439410526315789 
+	Overall Variance Score: 0.4791044513243894
+Iteration No: 9 of 1000
+	Individual Constraint Variance Scores: 0.0423529411764706 0.364277894736842 
+	Overall Variance Score: 0.4066308359133126
+Iteration No: 12 of 1000
+	Individual Constraint Variance Scores: 0.043809523809523805 0.29741473684210523 
+	Overall Variance Score: 0.34122426065162903
+Iteration No: 14 of 1000
+	Individual Constraint Variance Scores: 0.04235294117647059 0.25724631578947377 
+	Overall Variance Score: 0.29959925696594436
+Iteration No: 20 of 1000
+	Individual Constraint Variance Scores: 0.02783625730994151 0.23918315789473688 
+	Overall Variance Score: 0.26701941520467837
+Iteration No: 22 of 1000
+	Individual Constraint Variance Scores: 0.04457516339869281 0.20760421052631586 
+	Overall Variance Score: 0.25217937392500867
+Iteration No: 28 of 1000
+	Individual Constraint Variance Scores: 0.030457516339869282 0.14175157894736834 
+	Overall Variance Score: 0.17220909528723763
+Iteration No: 46 of 1000
+	Individual Constraint Variance Scores: 0.021045751633986923 0.1492463157894736 
+	Overall Variance Score: 0.1702920674234605
+Iteration No: 92 of 1000
+	Individual Constraint Variance Scores: 0.017352941176470592 0.10979368421052635 
+	Overall Variance Score: 0.12714662538699695
+Iteration No: 169 of 1000
+	Individual Constraint Variance Scores: 0.021045751633986927 0.08604631578947368 
+	Overall Variance Score: 0.10709206742346061
+Iteration No: 170 of 1000
+	Individual Constraint Variance Scores: 0.014502923976608184 0.08646736842105258 
+	Overall Variance Score: 0.10097029239766077
+Iteration No: 354 of 1000
+	Individual Constraint Variance Scores: 0.01631578947368421 0.08103578947368424 
+	Overall Variance Score: 0.09735157894736846
+Iteration No: 535 of 1000
+	Individual Constraint Variance Scores: 0.020526315789473684 0.07413052631578948 
+	Overall Variance Score: 0.09465684210526316
+Iteration No: 595 of 1000
+	Individual Constraint Variance Scores: 0.027836257309941517 0.06141473684210532 
+	Overall Variance Score: 0.08925099415204683
+Iteration No: 768 of 1000
+	Individual Constraint Variance Scores: 0.027836257309941517 0.055098947368421 
+	Overall Variance Score: 0.08293520467836252
+
+		Completed in: 37.63091492652893 seconds.
+
+Number of Students: 100, Team Size Requested: 7
+Constraints selected: Gender Academic Score 
+Number of Females: 35, 35.0%
+Starting algorithm....
+Iteration No: 1 of 1000
+	Individual Constraint Variance Scores: 0.0187769819466248 0.5423716955875755 
+	Overall Variance Score: 0.5611486775342003
+Iteration No: 2 of 1000
+	Individual Constraint Variance Scores: 0.010974994393361739 0.31924324400089693 
+	Overall Variance Score: 0.3302182383942587
+Iteration No: 3 of 1000
+	Individual Constraint Variance Scores: 0.014992501121327651 0.2809669348508633 
+	Overall Variance Score: 0.295959435972191
+Iteration No: 5 of 1000
+	Individual Constraint Variance Scores: 0.022797992823503026 0.25701048791769443 
+	Overall Variance Score: 0.27980848074119746
+Iteration No: 6 of 1000
+	Individual Constraint Variance Scores: 0.023584674254317112 0.17786578058421168 
+	Overall Variance Score: 0.2014504548385288
+Iteration No: 7 of 1000
+	Individual Constraint Variance Scores: 0.020590379008746353 0.13273472541489126 
+	Overall Variance Score: 0.15332510442363761
+Iteration No: 16 of 1000
+	Individual Constraint Variance Scores: 0.03000953128504149 0.09937696232339091 
+	Overall Variance Score: 0.1293864936084324
+Iteration No: 26 of 1000
+	Individual Constraint Variance Scores: 0.0331492487104732 0.0798927730432833 
+	Overall Variance Score: 0.1130420217537565
+Iteration No: 41 of 1000
+	Individual Constraint Variance Scores: 0.022939910854451667 0.04137539596882713 
+	Overall Variance Score: 0.0643153068232788
+Iteration No: 68 of 1000
+	Individual Constraint Variance Scores: 0.024550067279659114 0.03816116281677509 
+	Overall Variance Score: 0.0627112300964342
+Iteration No: 72 of 1000
+	Individual Constraint Variance Scores: 0.015404238618524324 0.034068106638259724 
+	Overall Variance Score: 0.049472345256784046
+Iteration No: 151 of 1000
+	Individual Constraint Variance Scores: 0.019664115646258497 0.025899812878448135 
+	Overall Variance Score: 0.04556392852470663
+Iteration No: 296 of 1000
+	Individual Constraint Variance Scores: 0.017934818158032443 0.025805393586005813 
+	Overall Variance Score: 0.043740211744038256
+Iteration No: 598 of 1000
+	Individual Constraint Variance Scores: 0.014992501121327651 0.027147482619421393 
+	Overall Variance Score: 0.042139983740749044
+Iteration No: 711 of 1000
+	Individual Constraint Variance Scores: 0.007835276967930028 0.031487791545189464 
+	Overall Variance Score: 0.039323068513119494
+Iteration No: 993 of 1000
+	Individual Constraint Variance Scores: 0.005573348845032518 0.03265412998990805 
+	Overall Variance Score: 0.03822747883494056
+
+		Completed in: 26.88164234161377 seconds.
+
+Number of Students: 100, Team Size Requested: 6
+Constraints selected: Gender 
+Number of Females: 35, 35.0%
+Starting algorithm....
+Iteration No: 1 of 1000
+	Individual Constraint Variance Scores: 0.017967822049454702 
+	Overall Variance Score: 0.017967822049454702
+Iteration No: 16 of 1000
+	Individual Constraint Variance Scores: 0.014156138645934565 
+	Overall Variance Score: 0.014156138645934565
+Iteration No: 39 of 1000
+	Individual Constraint Variance Scores: 0.013999568081200734 
+	Overall Variance Score: 0.013999568081200734
+Iteration No: 40 of 1000
+	Individual Constraint Variance Scores: 0.012622826908541194 
+	Overall Variance Score: 0.012622826908541194
+Iteration No: 44 of 1000
+	Individual Constraint Variance Scores: 0.007782974300831443 
+	Overall Variance Score: 0.007782974300831443
+Iteration No: 86 of 1000
+	Individual Constraint Variance Scores: 0.006781462585034014 
+	Overall Variance Score: 0.006781462585034014
+Iteration No: 124 of 1000
+	Individual Constraint Variance Scores: 0.00579884731670446 
+	Overall Variance Score: 0.00579884731670446
+Iteration No: 521 of 1000
+	Individual Constraint Variance Scores: 0.004450113378684807 
+	Overall Variance Score: 0.004450113378684807
+Iteration No: 527 of 1000
+	Individual Constraint Variance Scores: 0.0030777588813303103 
+	Overall Variance Score: 0.0030777588813303103
+
+		Completed in: 49.851651191711426 seconds.
+
+Number of Students: 100, Team Size Requested: 5
+Constraints selected: Gender Academic Score 
+Number of Females: 35, 35.0%
+Starting algorithm....
+Iteration No: 1 of 1000
+	Individual Constraint Variance Scores: 0.03315789473684211 0.49299368421052625 
+	Overall Variance Score: 0.5261515789473683
+Iteration No: 2 of 1000
+	Individual Constraint Variance Scores: 0.030457516339869276 0.45147789473684213 
+	Overall Variance Score: 0.4819354110767114
+Iteration No: 3 of 1000
+	Individual Constraint Variance Scores: 0.02339181286549707 0.41581473684210524 
+	Overall Variance Score: 0.4392065497076023
+Iteration No: 5 of 1000
+	Individual Constraint Variance Scores: 0.0257516339869281 0.40356210526315806 
+	Overall Variance Score: 0.42931373925008615
+Iteration No: 6 of 1000
+	Individual Constraint Variance Scores: 0.027352941176470587 0.3149305263157892 
+	Overall Variance Score: 0.3422834674922598
+Iteration No: 8 of 1000
+	Individual Constraint Variance Scores: 0.04157894736842104 0.20111999999999994 
+	Overall Variance Score: 0.242698947368421
+Iteration No: 11 of 1000
+	Individual Constraint Variance Scores: 0.05005847953216376 0.18714105263157904 
+	Overall Variance Score: 0.2371995321637428
+Iteration No: 14 of 1000
+	Individual Constraint Variance Scores: 0.030457516339869282 0.18764631578947366 
+	Overall Variance Score: 0.21810383212934295
+Iteration No: 19 of 1000
+	Individual Constraint Variance Scores: 0.02894736842105262 0.17493052631578937 
+	Overall Variance Score: 0.20387789473684198
+Iteration No: 21 of 1000
+	Individual Constraint Variance Scores: 0.02473684210526316 0.1571199999999999 
+	Overall Variance Score: 0.18185684210526307
+Iteration No: 81 of 1000
+	Individual Constraint Variance Scores: 0.023391812865497078 0.1175831578947368 
+	Overall Variance Score: 0.14097497076023388
+Iteration No: 178 of 1000
+	Individual Constraint Variance Scores: 0.02104575163398693 0.09404631578947367 
+	Overall Variance Score: 0.1150920674234606
+Iteration No: 180 of 1000
+	Individual Constraint Variance Scores: 0.021045751633986923 0.09354105263157889 
+	Overall Variance Score: 0.1145868042655658
+Iteration No: 257 of 1000
+	Individual Constraint Variance Scores: 0.027836257309941524 0.06937263157894742 
+	Overall Variance Score: 0.09720888888888894
+Iteration No: 439 of 1000
+	Individual Constraint Variance Scores: 0.030457516339869282 0.06145684210526319 
+	Overall Variance Score: 0.09191435844513247
+Iteration No: 565 of 1000
+	Individual Constraint Variance Scores: 0.03516339869281045 0.05535157894736845 
+	Overall Variance Score: 0.0905149776401789
+Iteration No: 569 of 1000
+	Individual Constraint Variance Scores: 0.02339181286549707 0.06655157894736843 
+	Overall Variance Score: 0.08994339181286551
+Iteration No: 840 of 1000
+	Individual Constraint Variance Scores: 0.021045751633986923 0.06217263157894738 
+	Overall Variance Score: 0.0832183832129343
+
+		Completed in: 32.943604946136475 seconds.
+
+Number of Students: 100, Team Size Requested: 5
+Constraints selected: Gender Ethicity 
+Number of Females: 35, 35.0%
+Starting algorithm....
+Iteration No: 1 of 1000
+	Individual Constraint Variance Scores: 0.01631578947368421 0.02348245614035089 
+	Overall Variance Score: 0.039798245614035097
+Iteration No: 104 of 1000
+	Individual Constraint Variance Scores: 0.011633986928104575 0.026173374613003106 
+	Overall Variance Score: 0.037807361541107684
+Iteration No: 426 of 1000
+	Individual Constraint Variance Scores: 0.011633986928104575 0.02019814241486069 
+	Overall Variance Score: 0.03183212934296527
+Iteration No: 586 of 1000
+	Individual Constraint Variance Scores: 0.01005847953216374 0.020198142414860693 
+	Overall Variance Score: 0.030256621947024435
+Iteration No: 728 of 1000
+	Individual Constraint Variance Scores: 0.010058479532163739 0.019271929824561412 
+	Overall Variance Score: 0.02933040935672515
+
+		Completed in: 41.790935754776 seconds.
+

@@ -1,0 +1,76 @@
+{% extends "main/base.html" %}
+{% load crispy_forms_tags %}
+{% block content %}
+
+	<div class="messages">
+		{% if messages %}
+			{% for message in messages %}
+				<div class="alert alert-{{ message.tags }}">{{ message }}</div>
+			{% endfor %}
+		{% endif %}
+	</div>
+	
+	<div class="row content">
+		<div class="col-md-5">
+			<div class="inner rounded">
+				<h1 class="border-bottom mb-4">Teams</h1>
+				<div style="overflow-x:auto;">
+					{{ data_html | safe }}
+				</div>
+			</div>
+		</div>
+		<div class="col-md-7">
+			{% if final_variance_dict %}
+				<div class="inner rounded">
+					<h1 class="border-bottom mb-4">Variance Scores</h1>
+					<div style="overflow-x:auto;">
+						<table>
+							{% for attribute, value in final_variance_dict.items %}
+								<tr>
+									<td>{{attribute}}</td>
+									<td>{{ value }}</td>
+								</tr>
+							{% endfor %}
+						</table>
+					</div>
+			{% endif %}
+			{% if html_table_list %}
+				<h1 class="border-bottom mt-4 mb-4">Information Tables</h1>
+				{% for table in html_table_list %}
+					<div style="overflow-x:auto;">
+						<p>{{ table | safe }}</p>
+					</div>
+				{% endfor %}
+			</div>
+			<br />
+			{% endif %}
+
+			<div class="inner rounded">
+				<form method="POST">
+					<fieldset>
+						{% csrf_token %}
+						<legend class="border-bottom mb-4">Download Results</legend>
+			    	</fieldset>
+			    	<div class="form-group">
+			    		<button name="download" type="submit">Download .csv File</button>
+			    	</div>
+				</form>
+			</div>
+			<br />
+			<div class="inner rounded">
+				<form method="POST">
+					<fieldset>
+						{% csrf_token %}
+						<legend class="border-bottom mb-4">Save Results</legend>
+						<p> Please input a name for your saved solution:</p>
+						{{ form | crispy }}
+					</fieldset>
+					<div class="form-group">
+						<button name="save" type="submit">Save</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+{% endblock content %}
